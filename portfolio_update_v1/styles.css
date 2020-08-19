@@ -43,7 +43,7 @@ a:hover {
 .nav .name {
     display: block;
     margin-right: auto;
-    color: black;
+    color: #999999;
 }
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -140,6 +140,11 @@ ul.skills {
 
 .skills li:nth-child(odd) {
   background: #0399ff;
+}
+
+.table-image { 
+  width: 200px;
+  height: 200px;
 }
 
 footer {
